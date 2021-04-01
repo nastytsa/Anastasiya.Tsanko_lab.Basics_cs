@@ -1,0 +1,9 @@
+C:\Users\Admin\RiderProjects\lab_basics\bin\Debug\lab_basics.dll
+C:\Users\Admin\RiderProjects\lab_basics\bin\Debug\lab_basics.pdb
+C:\Users\Admin\RiderProjects\lab_basics\bin\Debug\nunit.framework.dll
+C:\Users\Admin\RiderProjects\lab_basics\bin\Debug\nunit.framework.xml
+C:\Users\Admin\RiderProjects\lab_basics\obj\Debug\lab_basics.csprojAssemblyReference.cache
+C:\Users\Admin\RiderProjects\lab_basics\obj\Debug\lab_basics.csproj.CoreCompileInputs.cache
+C:\Users\Admin\RiderProjects\lab_basics\obj\Debug\lab_basics.csproj.CopyComplete
+C:\Users\Admin\RiderProjects\lab_basics\obj\Debug\lab_basics.dll
+C:\Users\Admin\RiderProjects\lab_basics\obj\Debug\lab_basics.pdb

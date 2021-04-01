@@ -1,0 +1,11 @@
+# Default ignored files
+/shelf/
+/workspace.xml
+# Rider ignored files
+/modules.xml
+/.idea.lab_basics.iml
+/contentModel.xml
+/projectSettingsUpdater.xml
+# Datasource local storage ignored files
+/../../../../../../../../:\Users\Admin\RiderProjects\lab_basics\.idea\.idea.lab_basics\.idea/dataSources/
+/dataSources.local.xml
