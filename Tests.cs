@@ -88,5 +88,37 @@ namespace lab_basics
             string expected = "(ALEXANDROV, ALEX)(GNOMENKO, MARYNA)(GNOMENKO, MARYNA)(MASHER, GANNA)";
             Assert.AreEqual(expected, output);
         }
+        
+        [Test]
+        public void Test6_1()
+        {
+            int output = Functions.NextBiggerNumber(2021);
+            int expected = 2102;
+            Assert.AreEqual(expected, output);
+        }
+        
+        [Test]
+        public void Test6_2()
+        {
+            int output = Functions.NextBiggerNumber(111);
+            int expected = -1;
+            Assert.AreEqual(expected, output);
+        }
+        
+        [Test]
+        public void Test7_1()
+        {
+            string output = Functions.NumToIpv4(2149583361);
+            string expected = "128.32.10.1";
+            Assert.AreEqual(expected, output);
+        }
+        
+        [Test]
+        public void Test7_2()
+        {
+            string output = Functions.NumToIpv4(11);
+            string expected = "0.0.0.11";
+            Assert.AreEqual(expected, output);
+        }
     }
 }
